@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @L1we7enee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-L1we7enee/L1we7enee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @zcq
+- 👀 I’m interested in web
+- 🌱 I’m currently learning java/pen-test
+- 📫 How to reach me 1964682640@qq.com
+- 来自成都理工大学网络安全专业的一名大三学生
